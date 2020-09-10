@@ -1,0 +1,22 @@
+#idContainer{
+    text-align: center;
+}
+
+#idHeader{
+    text-align: center;
+}
+
+#idInfo a:hover{
+    text-decoration: none;
+}
+#globalIdContainer ul{
+    list-style: none;
+}
+#globalIdContainer li{
+    margin-bottom: 0.25em;
+}
+
+#profileImage{
+    border-radius: 50%;
+    width: 150px;
+}
