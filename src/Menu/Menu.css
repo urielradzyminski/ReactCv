@@ -1,0 +1,26 @@
+.navBarT{
+    background-color: rgb(32, 32, 32);
+}
+.navButton{
+    padding: 1rem;
+
+    border-radius: 1rem;
+}
+.navButton Link{
+    text-decoration:"none";
+}
+.navButton:hover{
+    background-color: rgb(240, 240, 240);
+    
+}
+@media only screen and (max-width: 768px){
+  }
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .navButton {
+      width: 100%;
+      text-align: center;
+      padding: 0.25rem;
+      font-size: 20px;
+    }
+  }
