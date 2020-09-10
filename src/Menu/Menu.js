@@ -4,6 +4,7 @@ import './Menu.css';
 import React from 'react';
 import { NavLink } from "react-router-dom";
 const Menu = () => {
+    //There must be a better way to style the NavLink buttons than this, but I couldnt figure it out and this works aswell
     const navLinkStyle = {
         color: "white",
         textDecoration: "none",
