@@ -24,11 +24,13 @@ const Home = () => {
               <br />
               <a href="tel:+598 92 771 007">+598 92 771 007</a>
               <br />
-              <a href="https://www.linkedin.com/in/uriel-radzyminski-7690a418a/">
+              <a href="https://www.linkedin.com/in/uriel-radzyminski-7690a418a/" 
+              target="_blank" rel="noopener noreferrer">
                 LinkedIn
               </a>
               <br />
-              <a href="https://github.com/urielradzyminski">
+              <a href="https://github.com/urielradzyminski" 
+               target="_blank" rel="noopener noreferrer">
                 Github
               </a>
             </div>
