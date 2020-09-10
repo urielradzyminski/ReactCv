@@ -28,6 +28,9 @@ const Home = () => {
                 LinkedIn
               </a>
               <br />
+              <a href="https://github.com/urielradzyminski">
+                Github
+              </a>
             </div>
           </Media.Body>
         </Media>
